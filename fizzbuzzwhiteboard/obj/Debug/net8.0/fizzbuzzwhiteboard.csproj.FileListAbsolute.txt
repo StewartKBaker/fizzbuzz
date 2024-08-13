@@ -1,0 +1,14 @@
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\bin\Debug\net8.0\fizzbuzzwhiteboard.exe
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\bin\Debug\net8.0\fizzbuzzwhiteboard.deps.json
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\bin\Debug\net8.0\fizzbuzzwhiteboard.runtimeconfig.json
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\bin\Debug\net8.0\fizzbuzzwhiteboard.dll
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\bin\Debug\net8.0\fizzbuzzwhiteboard.pdb
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\obj\Debug\net8.0\fizzbuzzwhiteboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\obj\Debug\net8.0\fizzbuzzwhiteboard.AssemblyInfoInputs.cache
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\obj\Debug\net8.0\fizzbuzzwhiteboard.AssemblyInfo.cs
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\obj\Debug\net8.0\fizzbuzzwhiteboard.csproj.CoreCompileInputs.cache
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\obj\Debug\net8.0\fizzbuzzwhiteboard.dll
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\obj\Debug\net8.0\refint\fizzbuzzwhiteboard.dll
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\obj\Debug\net8.0\fizzbuzzwhiteboard.pdb
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\obj\Debug\net8.0\fizzbuzzwhiteboard.genruntimeconfig.cache
+C:\Users\stewy\OneDrive\Desktop\repos\fizzbuzzwhiteboard\fizzbuzzwhiteboard\obj\Debug\net8.0\ref\fizzbuzzwhiteboard.dll
